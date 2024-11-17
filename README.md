@@ -19,6 +19,8 @@ Simulation results, visualized through time-evolving plots of cluster strengths,
 
 By integrating FAISS with biologically inspired mechanisms like LTP and LTD, this methodology provides a scalable and dynamic framework for understanding the relationship between high-dimensional vector spaces and neuroplasticity. It opens pathways for advancements in machine learning, cognitive modeling, and adaptive AI systems, bridging the gap between biological principles and AI.
 
+-----------------------------------------------
+
 ![alt text](image-1.png)
 
 The Elliptical Shape: The oval shape typically indicates a correlation between two dimensions in the PCA space. This means that the vectors in each cluster have certain dimensions that are more highly correlated with each other, forming a group that stretches more in one direction (as opposed to being circular or perfectly spread out).
@@ -27,15 +29,13 @@ The Elliptical Shape: The oval shape typically indicates a correlation between t
 
 - For the cluster at -8, the spread or elongation due to stronger LTD effects, which could have caused a larger variation in the vectors' values, leading to a more elongated shape.
 
-----------------------------------
+-----------------------------------------------
 
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
-
-![alt text](image-5.png)
 
 The Clustering: Note certain regions of the plot with a higher concentration of data points (denser clusters), those represent vectors that have been influenced similarly over time (e.g., vectors that underwent LTP).
 
